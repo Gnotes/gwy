@@ -4,6 +4,8 @@
 
 ### 行测
 
+- [资料分析《行测》系统课超级全](https://www.bilibili.com/video/BV1f4411C7z5) ▶️ 👍
+
 ### 申论
 
 - [申论万能思维体系、万能八条是什么怎么用；国考省考联考行测申论课程](https://www.bilibili.com/video/BV1mV411o7nw) ▶️ 👍

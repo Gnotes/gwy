@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>基础运算练习</title>
+</head>
+<body>
+  <script src="./common.js"></script>
+  <script src="./sum.js"></script>
+  <script src="./sub.js"></script>
+  <script src="./mul.js"></script>
+  <script src="./div.js"></script>
+  <button class="btn-run" onclick="runSum()"> + </button>
+  <button class="btn-run" onclick="runSub()"> - </button>
+  <button class="btn-run" onclick="runMul()"> * </button>
+  <button class="btn-run" onclick="runDiv()"> / </button>
+  <button class="btn-check" onclick="toggle()"> 查看 </button>
+
+  <div id="context"></div>
+  <style>
+    #context li {
+      display: inline-block;
+      min-width: 150px;
+    }
+    #context li span {
+      visibility: hidden;
+    }
+    #context.visiable li span {
+      visibility: visible;
+    }
+  </style>
+</body>
+</html>

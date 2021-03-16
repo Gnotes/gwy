@@ -8,11 +8,13 @@
 
 ### 行测
 
-- [资料分析《行测》系统课超级全](https://www.bilibili.com/video/BV1f4411C7z5) ▶️ 👍
+- [资料分析 | 刘文超](https://www.bilibili.com/video/BV1f4411C7z5) ▶️ 👍
+- [言语理解 | 顾斐](https://www.bilibili.com/video/BV1ft411b72C) ▶️ 👍
+- [言语理解 | 杨济瑞](https://www.bilibili.com/video/BV1BD4y1Q7t8) ▶️ 👍
 
 ### 申论
 
-- [申论万能思维体系、万能八条是什么怎么用；国考省考联考行测申论课程](https://www.bilibili.com/video/BV1mV411o7nw) ▶️ 👍
+- [申论万能思维体系 | 钟君](https://www.bilibili.com/video/BV1mV411o7nw) ▶️ 👍
 
 ## 媒体
 

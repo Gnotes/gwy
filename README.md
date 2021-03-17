@@ -4,8 +4,6 @@
 - [【推理判断】](./docs/推理判断.md)
 - [【言语】](./docs/言语.md)
 
-## 资料
-
 ### 行测
 
 - [资料分析 | 刘文超](https://www.bilibili.com/video/BV1f4411C7z5) ▶️ 👍
@@ -16,13 +14,19 @@
 
 - [申论万能思维体系 | 钟君](https://www.bilibili.com/video/BV1mV411o7nw) ▶️ 👍
 
-## 媒体
+### 媒体
 
 - [华图在线App]()
 - [中公题库App]()
 - [粉笔教育App]()
 - [半月谈App]()
 
-## 真题下载
+### 公众号
+
+- 人民日报
+- 人民日报评论
+- 新华网
+
+### 真题下载
 
 - [公考资讯网](http://www.chinagwy.org/html/stzx/index.html)
